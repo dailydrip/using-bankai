@@ -1,0 +1,16 @@
+{
+  "name": "using-bankai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bankai start",
+    "build": "bankai build",
+    "inspect": "bankai inspect"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bankai": "^9.0.2"
+  }
+}
